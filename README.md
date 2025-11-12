@@ -5,4 +5,6 @@ I am considering designing a new 68000-Master for the S100 bus, with the aim of 
 Several documents:
   - Commissioning of the Master S100 CPU 68000 V1.03B of John Monahan, based on Wilcox's book.
   - Table of the configuration points 68000 CPU V1.03 board.
-  - Edited and placed of DPU CROMEMCO IC's in the John Monahan CPU 68000 V1.3B schematic KiCAD V3 project. (.zip) This folder is not final, I will be editing it.
+  - Edited and placed of DPU CROMEMCO IC's in the John Monahan CPU 68000 V1.3B schematic KiCAD V3 project. (.zip)
+This folder is not final,
+I'm postponing this task.
