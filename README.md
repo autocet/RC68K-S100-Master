@@ -8,3 +8,5 @@ Several documents:
   - Edited and placed of DPU CROMEMCO IC's in the John Monahan CPU 68000 V1.3B schematic KiCAD V3 project. (.zip)
 This folder is not final,
 I'm postponing this task.
+
+<img src="screendumps/schematic.png" alt="schematic" width="400">
